@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+numpy
+pandas
+matplotlib
+cvxpy
+psycopg2-binary
+SQLAlchemy
+python-dotenv
+scipy
